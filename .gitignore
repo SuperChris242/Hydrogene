@@ -1,0 +1,16 @@
+# Modules node_modules/
+.DS_Store
+/node_modules
+
+# Fichiers de configuration .env
+.env
+
+# Fichiers de sauvegarde *.bak *.log
+.bak
+.log
+
+# Fichiers de dépendances npm package-lock.json
+package-lock.json
+
+# Fichiers de sauvegarde MongoDB /data/db/*.log
+/data/db/
